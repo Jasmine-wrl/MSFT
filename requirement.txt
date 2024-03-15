@@ -1,0 +1,5 @@
+# pip install -r requirement.txt -i https://pypi.mirrors.ustc.edu.cn/simple
+torchvision>=0.7.0
+einops>=0.3.0
+fightingcv_attention
+pytorch_grad_cam
